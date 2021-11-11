@@ -1,0 +1,47 @@
+body{
+    padding: 100px;
+    background:linear-gradient(45deg ,green ,red);
+    height: auto;
+}
+h1{
+    border: 3px solid black;
+    border-radius: 9px;
+    background-color: brown;
+}
+
+#main{
+    border: 7px solid red;
+    border-radius: 30px;
+    width: 26%;
+    text-align: center;
+    margin: auto;
+    background-color: salmon;
+    box-shadow: 0 0 50px black;
+    display: flex;
+    justify-content: center;
+}
+
+.buttoncontainer {
+    text-align: center;
+}
+table {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+input{
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 8px;
+    height: 36px;
+    width: 309px;
+}
+
+button{
+    font-size: 20px;
+    width: 77px;
+    height: 46px;
+    background-color: bisque;
+    border-radius: 8px;
+}
